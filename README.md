@@ -1,1 +1,1 @@
-Check
+AI Tutor using classical Artificial Intelligence
